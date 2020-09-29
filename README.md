@@ -37,8 +37,8 @@ It comes with many built-in features, such as authentication using JWT, request 
 Clone the repo:
 
 ```bash
-git clone https://github.com/hagopj13/node-express-mongoose-boilerplate.git
-cd node-express-mongoose-boilerplate
+git clone https://github.com/hashaneranda/es5-nodejs-starter
+cd es5-nodejs-starter
 ```
 
 Install the dependencies:
